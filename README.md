@@ -1,0 +1,4 @@
+Información del proyecto: Hasta ahora pude aplicar el método de proyección de Chorin para obtener el campos de velocidades dadas condiciones de borde (solo he planteado las CB de la cavidad cuadrada). Usé directamente la metodología del libro "Numerical Simulations in Fluid Dynamics" de M. Griebel
+especificamente el capitulo 3 del mismo. Tanto el libro como el informe se encuentran en la carpeta de documentación. Es solo un códgio en python en el cual se explica la metodología y teoría paso a paso del porque se definen las funciones y con que proposito,
+aunque esto está con más detalle en el informe. Queda por hacer: calcular las lineas de flujo, animarlas y aumentar el número de Reynolds, luego implementar lo mismo pero para las CB del otro modelo, Finalemente comparar resultados
+con la solución de referencia
