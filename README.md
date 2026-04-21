@@ -2,5 +2,5 @@ Información del proyecto: Hasta ahora pude aplicar el método de proyección de
 específicamente el capitulo 3 del mismo. Es solo un códgio en python en el cual se explica la metodología y teoría paso a paso del porque se definen las funciones y con que propósito,
 aunque esto está con más detalle en el informe (carpeta de documentación, iba a subir el libro pero mejor no por temas de copyright). Queda por hacer: calcular las lineas de flujo, animarlas y aumentar el número de Reynolds, luego implementar lo mismo pero para las CB del otro modelo, finalemente comparar resultados con la solución de referencia.
 
-Información Tarea 1: Los tres códigos (preguntas 1,2 y 3) fueron hechos en Python y estan separados en sus respectivas carpetas dentro de la carpeta "Tarea 1", dentro igualmente se encuentra el pdf con las respuestas
+Información Tarea 1: Los tres códigos (problemas 1,2 y 3) fueron hechos en Python y están separados en sus respectivas carpetas, junto a las figuras obtenidas de cada problema, dentro de la carpeta "Tarea 1", dentro igualmente se encuentra el pdf con las respuestas
 a las preguntas.
