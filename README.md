@@ -10,3 +10,5 @@ Avance Final: Se añadieron a la carpeta de códigos tanto el código final del 
 ----------------------------------------------------------------------------------------------------------------------
 Información Tarea 1: Los tres códigos (problemas 1,2 y 3) fueron hechos en Python y están separados en sus respectivas carpetas, junto a las figuras obtenidas de cada problema, dentro de la carpeta "Tarea 1", dentro igualmente se encuentra el pdf con las respuestas
 a las preguntas.
+
+Información Tarea 2: Se subieron 2 archivos .ipynb (uno por pregunta) los cuales en el inicio tienen una celda "Marwdown" en donde se responden las preguntas de los incisos a. Por otro lado cada inciso tiene su propia celda de código y todas las discuciones solicitadas se encuentran como comentarios al final de cada celda.
